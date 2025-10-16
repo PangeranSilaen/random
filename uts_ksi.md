@@ -1,7 +1,3 @@
-Tentu, ini adalah versi lengkap dari panduan belajar Keamanan Sistem Informasi, dengan perbaikan dan penambahan tabel perhitungan Vigenere Cipher agar lebih jelas. Kamu bisa langsung menyalin seluruh konten ini.
-
----
-
 ### **Pertemuan 1: Steganografi - Seni Menyembunyikan Pesan**
 
 #### **1. Rangkuman Materi**
@@ -321,4 +317,4 @@ mindmap
 | **Kelebihan** | Standar internasional, sertifikasi kuat | Kuat untuk audit & tata kelola | Praktis, fleksibel, mudah diadopsi |
 | **Kekurangan** | Kompleks dan mahal untuk implementasi | Tidak spesifik hanya untuk keamanan | Tidak ada sertifikasi resmi |
 
-Semoga rangkuman dan soal latihan ini membantumu lebih siap menghadapi UTS/UAS. Pelajari setiap konsep dengan baik, terutama perbedaan dan kapan harus menggunakan setiap alat atau framework. Selamat belajar dan semoga sukses
+
